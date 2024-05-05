@@ -361,5 +361,5 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 |             U2B16                  |     All      |    ⩚      |  -      |![mac_logo](https://user-images.githubusercontent.com/12781303/118395254-7c6dd880-b673-11eb-8b5a-6a658147b23c.png)|
 |             U2B17                  |     All      |    ⩛      |  -      |![palette](https://user-images.githubusercontent.com/12781303/118395255-7c6dd880-b673-11eb-9cfc-c8a64d271e79.png)|
 |             U2B18                  |     All      |    ⩜      |  -      |![wizard](https://user-images.githubusercontent.com/12781303/118395256-7d066f00-b673-11eb-9b36-3e97f90fa941.png)|
-|             U2B18                  |     All      |    ⩜      |  -      |![android]()|
+|             U2B18                  |     All      |    ⩜      |  -      |![android](https://i.imgur.com/UJAjLK7.png)|
 
